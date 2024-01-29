@@ -1,0 +1,19 @@
+PATH
+  remote: .
+  specs:
+    tiny_info_service (1.0.0)
+      tiny_tcp_service
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    tiny_tcp_service (1.4.1)
+
+PLATFORMS
+  x86_64-darwin-22
+
+DEPENDENCIES
+  tiny_info_service!
+
+BUNDLED WITH
+   2.4.1
